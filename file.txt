@@ -1,4 +1,6 @@
 apple
 banana
 mango
-cherry
+guava
+pineapple
+mango
