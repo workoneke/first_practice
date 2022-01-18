@@ -1,0 +1,6 @@
+
+dog
+cat
+ox
+fox
+cow
